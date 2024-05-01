@@ -1,27 +1,18 @@
 [{
-    "key": "default",
+    "key": "Austrian",
     "name": {
-        "en": "Default"
+        "en": "Austria region"
     }
 },
 {
-    "key": "dach",
+    "key": "Dutch",
     "name": {
-        "en": "DACH region"
-    },
-    "languages": ["de"]
+        "en": "Dutch region"
+    }
 },
 {
-    "key": "europe",
+    "key": "Netherlandish",
     "name": {
-        "en": "Europe"
-    },
-    "languages": ["de", "en"]
-},
-{
-    "key": "uk",
-    "name": {
-        "en": "UK"
-    },
-    "languages": ["en"]
+        "en": "Netherland region"
+    }
 }]

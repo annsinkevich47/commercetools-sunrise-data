@@ -7,12 +7,5 @@
       { "country": "DE"},
       { "country": "NL"}
     ]
-  },
-  {
-    "name": "United States",
-    "description": "",
-    "locations": [
-      { "country": "US"}
-    ]
   }
 ]

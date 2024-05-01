@@ -1,83 +1,68 @@
 [
     {
         "customerNumber": "1",
-        "email": "jane.doe@example.com",
-        "firstName": "Jane",
-        "lastName": "Doe",
+        "email": "fill.In@gmail.com",
+        "firstName": "Amanda",
+        "lastName": "Adams",
         "title": "Mrs",
-        "password": "p@ssword",
+        "password": "XDx432-",
         "addresses": [
             {
-                "id": "PPM3YhMK",
+                "id": "DJFJDB43",
                 "title": "Mrs.",
-                "firstName": "Jane",
-                "lastName": "Doe",
-                "streetName": "First Street",
-                "streetNumber": "12",
-                "postalCode": "12345",
-                "city": "Example City",
-                "country": "NL",
-                "phone": "+312345678",
-                "mobile": "+312345679",
-                "email": "jane.doe@example.com"
-            },
-            {
-                "id": "kzVASZ9O",
-                "title": "Head of factory",
-                "firstName": "Jane",
-                "lastName": "Doe",
-                "streetName": "Third Street",
-                "streetNumber": "34",
-                "postalCode": "12345",
-                "city": "Example City",
-                "country": "NL",
-                "phone": "+3112345678",
-                "mobile": "+3112345679",
-                "email": "jane.doe@example.com"
+                "firstName": "Amanda",
+                "lastName": "Adams",
+                "streetName": "Freiheit",
+                "streetNumber": "10",
+                "postalCode": "13597",
+                "city": "Berlin",
+                "country": "DE",
+                "phone": "+4930275246119",
+                "mobile": "+4930455205112",
+                "email": "fill.In@gmail.com"
             }
         ],
         "shippingAddressIds": [
-            "PPM3YhMK"
+            "10 Freiheit, Spandau, Berlin, Deutschland"
         ],
         "billingAddressIds": [
-            "kzVASZ9O"
+          "10 Freiheit, Spandau, Berlin, Deutschland"
         ],
         "isEmailVerified": true,
-        "key": "janeDoe",
-        "dateOfBirth": "1974-09-20"
+        "key": "amandaAdams",
+        "dateOfBirth": "1998-03-14"
     },
     {
         "customerNumber": "2",
-        "email": "john.doe@example.com",
-        "firstName": "John",
-        "lastName": "Doe",
+        "email": "jelly.fish@gmail.com",
+        "firstName": "Billie",
+        "lastName": "Becker",
         "title": "Mr.",
-        "password": "p@ssword",
+        "password": "deveR-crowN342",
         "addresses": [
             {
-                "id": "a-qURQXR",
+                "id": "DFD875H3N",
                 "title": "Mr.",
-                "firstName": "John",
-                "lastName": "Doe",
-                "streetName": "Second Street",
-                "streetNumber": "13",
-                "postalCode": "12345",
-                "city": "Example City",
+                "firstName": "Billie",
+                "lastName": "Becker",
+                "streetName": "Trappendaal",
+                "streetNumber": "92",
+                "postalCode": "6228 GK",
+                "city": "Maastricht",
                 "country": "NL",
-                "phone": "+31123456780",
-                "mobile": "+31123456781",
-                "email": "john.doe@example.com"
+                "phone": "+31191040240",
+                "mobile": "+31120821385",
+                "email": "jelly.fish@gmail.com"
             }
         ],
         "shippingAddressIds": [
-            "a-qURQXR"
+            "10 Freiheit, Spandau, Berlin, Deutschland"
         ],
         "billingAddressIds": [
-            "a-qURQXR"
+            "10 Freiheit, Spandau, Berlin, Deutschland"
         ],
         "isEmailVerified": true,
-        "key": "johnDoe",
-        "dateOfBirth": "1943-12-18",
-        "companyName": "Example Company"
+        "key": "billieBecker",
+        "dateOfBirth": "1983-11-19"
     }
 ]
