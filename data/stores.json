@@ -1,4 +1,10 @@
 [{
+  "key": "default",
+  "name": {
+      "en": "Default"
+  }
+},
+{
     "key": "Austrian",
     "name": {
         "en": "Austria region"
