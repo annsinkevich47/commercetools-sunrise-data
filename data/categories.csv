@@ -1,3 +1,4 @@
 key,externalId,name.en,slug.en,parentId,orderHint,webImageUrl,iosImageUrl
-c1,1,Flower,flower,,0.0001,,
-c2,2,Grass,grass,,0.0002,,
+indoor,1,Indoor plants,indoor,,0.0001,,
+outdoor,2,Outdoor plants,outdoor,,0.0002,,
+fantasy,3,Fantasy plants,fantasy,,0.0003,,
