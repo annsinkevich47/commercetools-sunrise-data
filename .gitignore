@@ -23,5 +23,4 @@ dist/
 node_modules/
 *.log
 .factorypath
-.env
 categories.csv-sorted
